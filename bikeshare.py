@@ -9,13 +9,13 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 #For extra aesthetics, I used time.sleep() throughout the code to make the program look a little retro and interactive. These aren't necessary for the code to work properly.
 
 print("\nBooting\n")
-time.sleep(0.5)
+time.sleep(0.25)
 print(".")
-time.sleep(0.5)
+time.sleep(0.25)
 print(".")
-time.sleep(0.5)
+time.sleep(0.25)
 print(".")
-time.sleep(0.5)
+time.sleep(0.25)
 
 
 def get_filters():
