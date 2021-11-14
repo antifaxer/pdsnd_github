@@ -16,7 +16,7 @@ new_york_state.csv
 washington.csv
 
 ### Credits
-List of webpages that helped me both figure out all my mistakes and to grab some ideas during coding
+List of webpages that helped me complete the project
 \
 https://stackoverflow.com/questions/54874726/how-can-i-count-empty-cell-in-csv-file-if-rowpredictionstring\
 \
