@@ -7,7 +7,7 @@ This project was created on October 2nd of 2021
 Replace the Project Title
 
 ### Description
-This project is intended to look at the bikeshare data from three different cities using python to obtain a nanodegree from audacity
+This project is intended to look at the bikeshare data from three different cities using python to obtain a nanodegree from udacity
 
 ### Files used
 bikeshare.py
