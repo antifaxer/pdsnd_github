@@ -20,7 +20,7 @@ time.sleep(0.25)
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day to analyze from the database
 
     Returns:
         (str) city - name of the city to analyze
