@@ -1,13 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-This project was created on October 2nd of 2021 
+This project was created on October 2nd of 2021
 
 ### Project Title
 Replace the Project Title
 
 ### Description
-This project is intended to look at the bikeshare data from three different cities using python
+This project is intended to look at the bikeshare data from three different cities using python to obtain a nanodegree from audacity
 
 ### Files used
 bikeshare.py
